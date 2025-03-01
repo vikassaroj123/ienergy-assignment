@@ -164,7 +164,7 @@ const Index: React.FC = () => {
             <div className="mb-4 md:mb-0">
               <div className="flex items-center">
                 <Film className="h-6 w-6 text-movie-accent" />
-                <h3 className="ml-2 text-lg font-semibold text-gray-800">CineSaga</h3>
+                <h3 className="ml-2 text-lg font-semibold text-gray-800">i-energy</h3>
               </div>
               <p className="text-sm text-gray-500 mt-1">Discover your next favorite movie</p>
             </div>
@@ -176,7 +176,7 @@ const Index: React.FC = () => {
             </div>
           </div>
           <div className="mt-8 border-t border-gray-100 pt-8 text-center text-sm text-gray-500">
-            <p>&copy; {new Date().getFullYear()} CineSaga. All rights reserved.</p>
+            <p>&copy; {new Date().getFullYear()} i-energy. All rights reserved.</p>
             <p className="mt-1">Powered by the OMDB API</p>
           </div>
         </div>
